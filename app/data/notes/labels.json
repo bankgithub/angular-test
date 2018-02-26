@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Kids",
+            "color": "md-green-300-bg"
+        },
+        {
+            "id": "2",
+            "name": "Sport",
+            "color": ""
+        },
+        {
+            "id": "3",
+            "name": "Home",
+            "color": "md-yellow-300-bg"
+        },
+        {
+            "id": "4",
+            "name": "Kitchen",
+            "color": "md-red-300-bg"
+        },
+        {
+            "id": "5",
+            "name": "Bag",
+            "color": "md-blue-300-bg"
+        },
+        {
+            "id": "6",
+            "name": "Fun",
+            "color": "md-orange-300-bg"
+        }
+    ]
+}
